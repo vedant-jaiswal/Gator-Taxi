@@ -93,4 +93,4 @@ Please refer to the provided code for detailed implementation details.
 
 This README provides an overview of the GatorTaxi project. For a more detailed understanding of the code and its workings, refer to the source code files.
 
-For any questions or issues, please contact the author, Vedant Jaiswal, at vedantjaiswal@ufl.edu.
+For any questions or issues, please contact me (Vedant Jaiswal), at vedantjaiswal@ufl.edu.
